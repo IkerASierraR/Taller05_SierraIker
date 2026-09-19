@@ -1,0 +1,91 @@
+respondiente,area,dimension,A_actual,B_actual,C_actual,D_actual,A_deseado,B_deseado,C_deseado,D_deseado
+R01,Administracion,Caracteristicas dominantes,15,9,29,47,22,29,25,24
+R01,Administracion,Liderazgo,18,15,25,42,22,32,29,17
+R01,Administracion,Gestion del personal,15,11,23,51,21,32,31,16
+R01,Administracion,Cohesion,19,12,28,41,18,31,26,25
+R01,Administracion,Enfasis estrategico,13,12,24,51,21,34,28,17
+R01,Administracion,Criterio de exito,13,15,22,50,30,27,22,21
+R02,Administracion,Caracteristicas dominantes,17,15,24,44,21,27,31,21
+R02,Administracion,Liderazgo,11,12,26,51,24,32,26,18
+R02,Administracion,Gestion del personal,18,10,27,45,22,35,28,15
+R02,Administracion,Cohesion,13,13,28,46,24,24,29,23
+R02,Administracion,Enfasis estrategico,18,14,21,47,25,29,23,23
+R02,Administracion,Criterio de exito,13,10,22,55,24,27,27,22
+R03,Administracion,Caracteristicas dominantes,19,15,23,43,22,29,28,21
+R03,Administracion,Liderazgo,12,13,25,50,24,27,27,22
+R03,Administracion,Gestion del personal,13,7,26,54,20,33,31,16
+R03,Administracion,Cohesion,17,8,26,49,20,31,29,20
+R03,Administracion,Enfasis estrategico,16,17,22,45,19,34,26,21
+R03,Administracion,Criterio de exito,12,16,28,44,31,30,21,18
+R04,Administracion,Caracteristicas dominantes,17,16,27,40,25,26,27,22
+R04,Administracion,Liderazgo,16,16,27,41,20,28,31,21
+R04,Administracion,Gestion del personal,17,15,24,44,16,34,33,17
+R04,Administracion,Cohesion,14,8,29,49,26,27,26,21
+R04,Administracion,Enfasis estrategico,11,12,28,49,21,30,29,20
+R04,Administracion,Criterio de exito,13,15,25,47,25,29,28,18
+R05,Administracion,Caracteristicas dominantes,15,14,25,46,20,32,29,19
+R05,Administracion,Liderazgo,17,16,25,42,24,30,27,19
+R05,Administracion,Gestion del personal,13,11,29,47,22,28,30,20
+R05,Administracion,Cohesion,11,14,21,54,23,32,23,22
+R05,Administracion,Enfasis estrategico,18,8,25,49,27,31,24,18
+R05,Administracion,Criterio de exito,10,11,26,53,26,28,27,19
+R06,Ventas,Caracteristicas dominantes,11,7,56,26,20,33,23,24
+R06,Ventas,Liderazgo,11,15,50,24,21,30,30,19
+R06,Ventas,Gestion del personal,10,12,53,25,15,34,29,22
+R06,Ventas,Cohesion,10,16,55,19,16,33,27,24
+R06,Ventas,Enfasis estrategico,11,11,56,22,20,33,27,20
+R06,Ventas,Criterio de exito,13,10,55,22,24,25,27,24
+R07,Ventas,Caracteristicas dominantes,18,14,48,20,18,29,31,22
+R07,Ventas,Liderazgo,14,7,59,20,21,31,25,23
+R07,Ventas,Gestion del personal,12,11,61,16,18,35,28,19
+R07,Ventas,Cohesion,20,8,56,16,17,27,33,23
+R07,Ventas,Enfasis estrategico,17,6,54,23,18,33,31,18
+R07,Ventas,Criterio de exito,17,12,47,24,20,32,22,26
+R08,Ventas,Caracteristicas dominantes,17,8,49,26,22,27,25,26
+R08,Ventas,Liderazgo,13,14,51,22,23,33,26,18
+R08,Ventas,Gestion del personal,8,11,62,19,19,32,28,21
+R08,Ventas,Cohesion,13,6,56,25,21,31,26,22
+R08,Ventas,Enfasis estrategico,16,9,50,25,20,28,32,20
+R08,Ventas,Criterio de exito,17,13,52,18,26,26,27,21
+R09,Ventas,Caracteristicas dominantes,11,11,58,20,18,29,26,27
+R09,Ventas,Liderazgo,10,14,55,21,21,28,28,23
+R09,Ventas,Gestion del personal,19,8,48,25,13,32,32,23
+R09,Ventas,Cohesion,15,16,53,16,20,28,29,23
+R09,Ventas,Enfasis estrategico,10,15,57,18,19,32,30,19
+R09,Ventas,Criterio de exito,9,7,55,29,25,30,26,19
+R10,Ventas,Caracteristicas dominantes,12,10,54,24,22,30,28,20
+R10,Ventas,Liderazgo,11,13,58,18,18,34,29,19
+R10,Ventas,Gestion del personal,17,11,54,18,16,38,28,18
+R10,Ventas,Cohesion,19,5,48,28,18,33,29,20
+R10,Ventas,Enfasis estrategico,8,11,56,25,19,33,28,20
+R10,Ventas,Criterio de exito,14,5,58,23,21,26,29,24
+R11,TI,Caracteristicas dominantes,23,39,20,18,24,30,28,18
+R11,TI,Liderazgo,26,32,23,19,28,35,24,13
+R11,TI,Gestion del personal,24,38,19,19,20,37,28,15
+R11,TI,Cohesion,19,36,21,24,20,40,24,16
+R11,TI,Enfasis estrategico,21,35,19,25,21,31,26,22
+R11,TI,Criterio de exito,21,39,21,19,25,32,25,18
+R12,TI,Caracteristicas dominantes,26,31,24,19,20,31,27,22
+R12,TI,Liderazgo,23,32,22,23,25,32,24,19
+R12,TI,Gestion del personal,27,36,15,22,15,37,29,19
+R12,TI,Cohesion,26,35,15,24,18,34,28,20
+R12,TI,Enfasis estrategico,22,40,16,22,21,30,28,21
+R12,TI,Criterio de exito,24,35,22,19,26,33,21,20
+R13,TI,Caracteristicas dominantes,22,33,25,20,24,35,27,14
+R13,TI,Liderazgo,21,40,15,24,27,29,27,17
+R13,TI,Gestion del personal,23,39,18,20,20,38,28,14
+R13,TI,Cohesion,22,36,24,18,26,30,24,20
+R13,TI,Enfasis estrategico,24,37,17,22,23,35,24,18
+R13,TI,Criterio de exito,22,37,23,18,28,27,23,22
+R14,TI,Caracteristicas dominantes,22,42,20,16,26,30,26,18
+R14,TI,Liderazgo,23,39,18,20,23,36,22,19
+R14,TI,Gestion del personal,20,39,19,22,23,35,30,12
+R14,TI,Cohesion,21,32,26,21,26,35,24,15
+R14,TI,Enfasis estrategico,22,41,19,18,22,38,27,13
+R14,TI,Criterio de exito,24,36,21,19,25,32,24,19
+R15,TI,Caracteristicas dominantes,22,38,23,17,19,34,31,16
+R15,TI,Liderazgo,25,38,18,19,26,28,28,18
+R15,TI,Gestion del personal,27,38,15,20,22,38,27,13
+R15,TI,Cohesion,22,33,23,22,17,36,28,19
+R15,TI,Enfasis estrategico,20,41,17,22,24,33,28,15
+R15,TI,Criterio de exito,21,33,27,19,23,29,28,20

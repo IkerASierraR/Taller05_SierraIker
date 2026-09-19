@@ -1,0 +1,70 @@
+========================================================================
+  TALLER 05 · SI-886 · Diagnóstico de Cultura Organizacional
+  Competing Values Framework — Cálculo de Perfiles y Brechas
+========================================================================
+
+1. Cargando datos...
+   Archivo: C:\Users\ID\Desktop\aksdfasdhf TI\datos\encuesta_cultura.csv
+   Respondientes: 15
+   Áreas: 3 (Administracion, TI, Ventas)
+   Registros: 90
+
+2. Control de calidad (A + B + C + D = 100)...
+   Bloques válidos:   90
+   Bloques inválidos: 0
+   [OK] Todas las respuestas cumplen la regla de validez.
+
+3. Perfil cultural general...
+ Tipo cultural  Actual  Deseado  Brecha
+      Clan (A)   17.02    21.79    4.77
+Adhocracia (B)   19.96    31.37   11.41
+   Mercado (C)   33.21    27.20   -6.01
+ Jerarquía (D)   29.81    19.64  -10.17
+
+   -> Cultura dominante actual:  Mercado (C)
+   -> Cultura dominante deseada: Adhocracia (B)
+   -> Mayor brecha: Adhocracia (B) (+11.41)
+
+4. Perfil por dimension...
+                 Dimensión  A_actual  A_deseado  B_actual  B_deseado  C_actual  C_deseado  D_actual  D_deseado
+Caracteristicas dominantes     17.80      21.53     20.13      30.07     33.67      27.47     28.40      20.93
+                 Liderazgo     16.73      23.13     21.07      31.00     33.13      26.87     29.07      19.00
+      Gestion del personal     17.53      18.80     19.80      34.53     32.87      29.33     29.80      17.33
+                  Cohesion     17.40      20.67     18.53      31.47     33.93      27.00     30.13      20.87
+       Enfasis estrategico     16.47      21.33     20.60      32.27     32.07      27.40     30.87      19.00
+         Criterio de exito     16.20      25.27     19.60      28.87     33.60      25.13     30.60      20.73
+
+5. Perfil cultural por area (estado actual)...
+          Area  Clan (A) actual  Adhocracia (B) actual  Mercado (C) actual  Jerarquía (D) actual
+Administracion            14.80                  12.67               25.33                 47.20
+            TI            22.83                  36.67               20.17                 20.33
+        Ventas            13.43                  10.53               54.13                 21.90
+
+6. Analisis de congruencia...
+   Administracion: dominante -> Jerarquía (D) (47.2)
+   TI: dominante -> Adhocracia (B) (36.67)
+   Ventas: dominante -> Mercado (C) (54.13)
+
+7. Generando graficos de radar...
+  [OK] Grafico de radar guardado en: C:\Users\ID\Desktop\aksdfasdhf TI\docs\evidencias\S05\salidas\CU_perfil_cultura.png
+  [OK] Grafico por area guardado en: C:\Users\ID\Desktop\aksdfasdhf TI\docs\evidencias\S05\salidas\CU_perfil_cultura_por_area.png
+
+8. Guardando perfil consolidado como CSV...
+   [OK] Perfil guardado en: C:\Users\ID\Desktop\aksdfasdhf TI\docs\evidencias\S05\salidas\CU02_perfil_cultura.csv
+
+========================================================================
+  RESUMEN DE EJECUCION
+========================================================================
+  Respondientes procesados: 15
+  Bloques validos:          90
+  Bloques invalidos:        0
+  Cultura dominante actual: Mercado (C)
+  Cultura deseada:          Adhocracia (B)
+  Mayor brecha:             Adhocracia (B) (+11.41)
+  Radar general:            C:\Users\ID\Desktop\aksdfasdhf TI\docs\evidencias\S05\salidas\CU_perfil_cultura.png
+  Radar por area:           C:\Users\ID\Desktop\aksdfasdhf TI\docs\evidencias\S05\salidas\CU_perfil_cultura_por_area.png
+  Perfil CSV:               C:\Users\ID\Desktop\aksdfasdhf TI\docs\evidencias\S05\salidas\CU02_perfil_cultura.csv
+========================================================================
+
+  Ejecucion completada exitosamente. [OK]
+
