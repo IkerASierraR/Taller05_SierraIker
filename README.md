@@ -52,9 +52,17 @@ para github/
 │   └── generar_datos.py             # Script de datos realistas para DICOSUR
 ├── datos/
 │   └── encuesta_cultura.csv         # 90 bloques (15 respondientes × 6 dimensiones)
+├── informe/
+│   └── SI886-S05-TALLER-Grupo01.pdf # Informe oficial PDF con plantilla UPT (12 páginas)
 └── docs/
+    ├── PROCEDIMIENTO_INFORME.md     # Guía procedimental y checklist de entrega
     └── evidencias/
         └── S05/
+            ├── anexo_A_instrumento_cvf.pdf        # Anexo A: Instrumento CVF oficial (PDF)
+            ├── anexo_B_resultados_cultura.xlsx    # Anexo B: Respuestas, calidad y brechas (Excel)
+            ├── anexo_C_perfil_cultura.png         # Anexo C: Gráficos de radar comparativos HD
+            ├── anexo_D_supuestos_basicos.xlsx     # Anexo D: Matriz Schein de supuestos (Excel)
+            ├── anexo_E_secciones_2_3_2_4.pdf      # Anexo E: Secciones PETI 2.3 y 2.4 (PDF)
             └── salidas/
                 ├── CU02_perfil_cultura.csv        # Tabla consolidada de puntajes y brechas
                 ├── CU_perfil_cultura.png          # Radar comparativo Actual vs. Deseado
